@@ -1,7 +1,7 @@
 ## QR Code Generator 
 
 **Github Page**
-Link if you want to visit the FreeGames website hosted by github pages: https://gabrieledg0.github.io/QR-Code-Generator/
+Link if you want to visit the FreeGames website hosted by github pages: https://gabrieledg0.github.io/QR-Code_Generator/
 
 *Overview*
 
