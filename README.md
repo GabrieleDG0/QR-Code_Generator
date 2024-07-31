@@ -1,5 +1,8 @@
 ## QR Code Generator 
 
+**Github Page**
+Link if you want to visit the FreeGames website hosted by github pages: https://gabrieledg0.github.io/QR-Code-Generator/
+
 *Overview*
 
 The QR Code Generator is a simple yet very useful web application that allows users to create QR codes from text or URLs. It uses a third-party API to generate high-quality QR codes and displays them dynamically on the webpage.
